@@ -1,5 +1,12 @@
 # Modules
 node_modules
+*/node_modules
+*/*/node_modules
 
 # IDE
 .idea
+
+# Dist folder
+dist
+*/dist
+*/*/dist
